@@ -1,0 +1,4 @@
+venv/
+.venv/
+*__pycache__*
+genestack-barbician-exporter-helm-chart/logs/*
